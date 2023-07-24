@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Sinsegye.DeviceManager/Sinsegye.DeviceManager/App.axaml" value="Sinsegye.DeviceManager/Sinsegye.DeviceManager.Browser/Sinsegye.DeviceManager.Browser.csproj" />
+        <entry key="Sinsegye.DeviceManager/Sinsegye.DeviceManager/Views/MainView.axaml" value="Sinsegye.DeviceManager/Sinsegye.DeviceManager.Browser/Sinsegye.DeviceManager.Browser.csproj" />
+        <entry key="Sinsegye.DeviceManager/Sinsegye.DeviceManager/Views/MainWindow.axaml" value="Sinsegye.DeviceManager/Sinsegye.DeviceManager.Browser/Sinsegye.DeviceManager.Browser.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
