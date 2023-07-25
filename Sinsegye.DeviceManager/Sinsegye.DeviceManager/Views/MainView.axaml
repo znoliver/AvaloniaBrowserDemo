@@ -12,8 +12,8 @@
         <vm:MainViewModel />
     </Design.DataContext>
 
-    <StackPanel>
-        <Button Content="get" />
+    <DockPanel LastChildFill="True" >
+        <Button Content="get" DockPanel.Dock="Top" />
         <TextBox  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Foreground="Wheat"  Text="{Binding Result}"></TextBox>
-    </StackPanel>
+    </DockPanel>
 </UserControl>
